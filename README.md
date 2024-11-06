@@ -23,10 +23,10 @@ https://roadmap.sh/projects/task-tracker
 
 ###     Running the file on windows.
         After you arrive to your desktop in your cmd, type the following to compile the file
-        "javac -d . CLI-Task-Tracker.java"
+        "javac -d . CLI_Task_Tracker.java"
 
         Then you can run the file with:
-        "java CLI-Task-Tracker.java"
+        "java CLI_Task_Tracker.java"
 
 
 ##      Linux
@@ -35,6 +35,6 @@ https://roadmap.sh/projects/task-tracker
         To get to the program path (assuming you downloaded it to the desktop), you may type in ("cd ~/Desktop/CLI-Task-Tracker")
 
 ###     Running the file on Linux.
-        Once you are in the directory where the java file sits, you may type in ("javac -d . CLI-Task-Tracker.java") to compile the file
+        Once you are in the directory where the java file sits, you may type in ("javac -d . CLI_Task_Tracker.java") to compile the file
 
-        To run the file, you can type in ("java CLI-Task-Tracker.java").
+        To run the file, you can type in ("java CLI_Task_Tracker.java").
